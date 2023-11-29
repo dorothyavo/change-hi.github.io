@@ -9,21 +9,19 @@ morea_labels:
   - 2:00pm-2:10pm
 ---
 
-# 1. Ice Breaker: Climate Fresk
-
-Break into small groups. Try to be in a group with people you haven't met before.
+# 1. Ice Breaker: Climate Change Model
  
 Task: 
 
-1. Introduce yourself to your group members. Name, background, degree program and one thing about how you protect our planet.
+1. The instructors will provide 13 Climate Fresk cards that corresponds to a climate change factor/element.
 
-2. Each group will make an educated guess on how each climate change factor is linked to each other, with climate fresk cards.
+2. Each participant will be assigned one (1) Climate Fresk card. Collaborate with your peers and collectively make an educated guess on how each climate change factor is linked to each other. 
  
-3. Each group will then present their hypothesis.
+3. Once the class comes to a consensus on the climate change model, the instructors will lock in the hypothesis on the whiteboard
 
+4. Hold onto your hypotheses. We will assess the data to see what the data actually says. 
 
-Hold onto your hypotheses. We will assess the data to see what the data actually says. 
-
+<img width="787" alt="Screenshot 2023-11-28 at 4 15 34 PM" src="https://github.com/change-hi/change-hi.github.io/assets/150083693/3c24e3fd-8c05-47d2-b2e0-1ac79883a803">
 
 {% include next-button.html
 top-label="1. What is time series analysis? ->"
